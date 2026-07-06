@@ -40,9 +40,12 @@ I build systems that bridge software and hardware. From developing full-stack we
 
 ### 📊 GitHub Stats
 
-[![Ekrem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-ekrem-doyran&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff&v=1)](https://github.com/a-ekrem-doyran)
+### 📊 GitHub İstatistikleri
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=a-ekrem-doyran&show_icons=true&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&v=1)](https://github.com/a-ekrem-doyran)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=a-ekrem-doyran&theme=dark&hide_border=true)](https://github.com/a-ekrem-doyran)
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-ekrem-doyran&theme=transparent)](https://github.com/a-ekrem-doyran)
+
 ---
 
 ### 📫 Connect With Me
