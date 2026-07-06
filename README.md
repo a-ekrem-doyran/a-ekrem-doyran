@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ekrem</h1>
-<h3 align="center">a computer engineering student.</h3>
+<h3 align="center">Code. Software. Prototype. Logic.</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=a-ekrem-doyran&label=Profile%20views&color=000000&style=flat-square" alt="a-ekrem-doyran" /> 
@@ -10,10 +10,12 @@
 ### 💻 About Me
 I engineer systems at the intersection of software and hardware. My focus is on creating minimalist, efficient, and robust solutions—whether that involves designing full-stack web architectures or calibrating physical hardware for industrial production.
 
-* 🔭 **What I've Built & Currently Working On:** * Developing control systems and programming embedded hardware for autonomous vehicles.
+* 🔭 **What I've Built & Currently Working On:**
+    * Developing control systems and programming embedded hardware for autonomous vehicles.
     * Designing and building full-stack architectures and scalable SaaS tools.
     * Executing industrial prototyping and hardware-level manufacturing processes.
-* 🌱 **What I'm Exploring Next:** * So far, my hands-on experience has been heavily rooted in embedded systems and full-stack development. While I haven't locked in a single long-term specialization just yet, I am eager to expand my horizons and explore broader, core computer science domains like Artificial Intelligence (Neural Networks) and Cybersecurity.
+* 🌱 **What I'm Exploring Next:**
+    * So far, my hands-on experience has been heavily rooted in embedded systems and full-stack development. While I haven't locked in a single long-term specialization just yet, I am eager to expand my horizons and explore broader, core computer science domains like Artificial Intelligence and Cybersecurity.
 
 ---
 
