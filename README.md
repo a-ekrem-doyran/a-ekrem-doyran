@@ -45,6 +45,14 @@ I build systems that bridge software and hardware. From developing full-stack we
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-ekrem-doyran&theme=dark&hide_border=true" alt="Profile Details" />
 </p>
 
+### 📊 GitHub İstatistikleri
+
+<p align="left">
+  <a href="https://github.com/a-ekrem-doyran" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=a-ekrem-doyran&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
 ---
 
 ### 📫 Connect With Me
