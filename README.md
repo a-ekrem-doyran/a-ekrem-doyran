@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ekrem</h1>
 <h3 align="center">Code. Software. Prototype. Logic.</h3>
 
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=a-ekrem-doyran&label=Profile%20views&color=000000&style=flat-square" alt="a-ekrem-doyran" /> 
 </p>
@@ -19,7 +20,7 @@ I engineer systems at the intersection of software and hardware. My focus is on 
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 
 **Languages:**
 <p align="left">
@@ -35,8 +36,15 @@ I engineer systems at the intersection of software and hardware. My focus is on 
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino_IDE-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Autodesk_Fusion-ff7a00?style=for-the-badge&logo=autodesk&logoColor=white" />
+</p>
+
+**Others:**
+<p align="left">
+  
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
+  
 </p>
 
 ---
@@ -54,3 +62,6 @@ I engineer systems at the intersection of software and hardware. My focus is on 
 <p align="left">
   <a href="mailto:abdullah.doyran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/a-ekrem-doyran) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aekremdoyran) 
+
