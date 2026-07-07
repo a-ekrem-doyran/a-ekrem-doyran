@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ekrem</h1>
+<p align="center">
+  <img src="profile-banner-aed.png" alt="Abdullah Ekrem Doyran" width="100%" />
+</p>
+
 <h3 align="center">Code. Software. Prototype. Logic.</h3>
 
 
