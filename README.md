@@ -18,8 +18,6 @@ I engineer systems at the intersection of software and hardware. My focus is on 
     * Developing control systems and programming embedded hardware for autonomous vehicles.
     * Designing and building full-stack architectures and scalable SaaS tools.
     * Executing industrial prototyping and hardware-level manufacturing processes.
-* 🌱 **What I'm Exploring Next:**
-    * So far, my hands-on experience has been heavily rooted in embedded systems and full-stack development. While I haven't locked in a single long-term specialization just yet, I am eager to expand my horizons and explore broader, core computer science domains like Artificial Intelligence and Cybersecurity.
 
 ---
 
